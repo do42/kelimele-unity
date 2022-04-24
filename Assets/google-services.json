@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487217088128",
+    "project_id": "kelimele-a7d5f",
+    "storage_bucket": "kelimele-a7d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487217088128:android:44754aa51b0139dff7c865",
+        "android_client_info": {
+          "package_name": "com.zinedstudios.kelimele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487217088128-npn601mdjg1me1hl9ctv28t7vnmtnb6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcr3iwgP6xuNGevjTN8G0hcd7siWhnXZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487217088128-npn601mdjg1me1hl9ctv28t7vnmtnb6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
